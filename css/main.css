@@ -12,7 +12,7 @@ body {
   height: 10px;
   margin-top: -4px;
   position: absolute;
-  animation: spider-move 3s linear 2s infinite;
+  animation: spider-move 5s linear 0s infinite;
   box-shadow: -50px 3px #000, -40px 3px #000, -30px 3px #fe0101,
     -20px 3px #fe0101, -10px 3px #000, 0px 3px #000, 10px 3px #000,
     20px 3px #fe0101, 30px 3px #fe0101, 40px 3px #000, 50px 3px #000,
